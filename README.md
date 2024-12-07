@@ -1,6 +1,6 @@
 # Build Your Own Shell  
 
-This project implements a **POSIX-compliant shell**, providing a command-line interface to interpret and execute shell commands, run external programs, and manage processes. Inspired by the [Build Your Own Shell](https://app.codecrafters.io/courses/shell/overview) course, it offers a deep dive into the fundamentals of shell programming.  
+This project implements a **POSIX-compliant shell**, providing a command-line interface to interpret and execute shell commands, run external programs, and manage processes.
 
 ---
 
